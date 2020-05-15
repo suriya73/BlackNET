@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
- <a href="#"><img align="center" src="https://img.shields.io/maintenance/yes/2020" /></a> 
+ <a href="#"><img align="center" src="https://img.shields.io/maintenance/no/2020" /></a> 
  <a href="#"><img align="center" src="https://img.shields.io/github/license/BlackHacker511/BlackNET" /></a>
  <a href="#"><img align="center" src="https://img.shields.io/github/v/release/BlackHacker511/BlackNET" /></a>
  <a href="#"><img align="center" src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FBlackHacker511%2FBlackNET.svg?type=shield"/></a>
