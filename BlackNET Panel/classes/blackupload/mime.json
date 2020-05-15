@@ -1,0 +1,9 @@
+[
+  "image/jpeg",
+  "image/png",
+  "application/x-sqlite3",
+  "text/plain",
+  "application/octet-stream",
+  "zz-application/zz-winassoc-dat",
+  "application/x-bitcoin-wallet-backup"
+]
